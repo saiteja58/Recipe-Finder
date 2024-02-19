@@ -7,7 +7,7 @@ import java.util.Scanner;
 //jai Mahishmati 
 //jai balayya
 //jai bal
-
+//jai nikhillaya
 public class RecipeFinder {
 
     public static void main(String[] args) {
