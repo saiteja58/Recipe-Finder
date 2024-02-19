@@ -6,7 +6,7 @@ import java.util.Scanner;
 //suklam bardaram vishnum sashivarnam chaturbhujam prasanna dhyaye varanam sarva vignopa shantaye
 //jai Mahishmati 
 //jai balayya
-
+//jai bal
 
 public class RecipeFinder {
 
